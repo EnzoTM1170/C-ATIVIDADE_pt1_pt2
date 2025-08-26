@@ -235,31 +235,3 @@ Plataforma: .NET
 IDE: Visual Studio
 
 Recursos: Métodos, Sobrecarga, Documentação XML
-
-📝 Notas do Desenvolvedor
-Estes programas foram desenvolvidos como exercícios acadêmicos para praticar:
-
-Criação e invocação de métodos
-
-Trabalhar com diferentes tipos de dados
-
-Implementar sobrecarga de métodos
-
-Documentar código com comentários XML
-
-Validar entrada do usuário
-
-Formatar saída de dados
-
-Os códigos seguem as melhores práticas de programação e estão devidamente comentados para facilitar o entendimento.
-
-📞 Suporte
-Em caso de dúvidas sobre os programas, consulte:
-
-Os comentários no código
-
-A documentação do .NET e C#
-
-Seu professor ou colegas de classe
-
-Estes programas foram desenvolvidos para fins educacionais como parte de um curso de programação em C#.
